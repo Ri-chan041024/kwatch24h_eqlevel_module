@@ -26,4 +26,4 @@ def eqlevel():
     else:
         color = 0x1e1e1e #灰色
     
-    return Eq_level, Eq_green, Eq_yellow, Eq_red, color #a返り値: 振動レベル, 緑観測点数, 黄観測点数, 赤観測点数, Embed(Discord Bot)用の色
+    return Eq_level, Eq_green, Eq_yellow, Eq_red, color #返り値: 振動レベル, 緑観測点数, 黄観測点数, 赤観測点数, Embed(Discord Bot)用の色
